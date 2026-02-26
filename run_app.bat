@@ -1,0 +1,1 @@
+"C:/Users/NIKHIL/anaconda3/python.exe" -m streamlit run app.py
